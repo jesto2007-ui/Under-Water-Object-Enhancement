@@ -1,4 +1,6 @@
 # 🌊 Underwater Image Enhancement Benchmark
+# If you need proposed model use new_model.ipynb
+# Remaining folders and files are preworks
 
 ## 📌 Project Overview
 
